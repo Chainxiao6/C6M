@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xFbb9453608948D3d971F1c079b410b2d1B533069",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xfbb9453608948d3d971f1c079b410b2d1b533069",
+  "CONTRACT_ADDRESS": "0xe728a386e3c9c4f039A2727cEC921BaAdbaFa4d8",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xe728a386e3c9c4f039a2727cec921baadbafa4d8",
   "NETWORK": {
-    "NAME": "Ether",
+    "NAME": "Rinkeby Testnet",
     "SYMBOL": "ETH",
-    "ID": 1
+    "ID": 4
   },
   "NFT_NAME": "Chainxiao6 Meta",
   "SYMBOL": "C6M",
-  "MAX_SUPPLY": 20,
-  "WEI_COST": 1000000000000000,
-  "DISPLAY_COST": 0.001,
+  "MAX_SUPPLY": 40,
+  "WEI_COST": 100000000000000,
+  "DISPLAY_COST": 0.0001,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/c6mtest",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/chainxiao6meta-v2",
   "SHOW_BACKGROUND": true
 }
